@@ -1,0 +1,1 @@
+Agent did not reach the goal 100 times in a row. Max consecutive: 8
